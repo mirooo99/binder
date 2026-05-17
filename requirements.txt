@@ -1,4 +1,1 @@
-jupyterlab
-notebook
-pandas
-matplotlib
+notebook==4.4.10
