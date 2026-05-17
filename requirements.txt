@@ -1,4 +1,4 @@
-notebook==7.4.0
-jupyterlab==4.4.0
+notebook==7.2.2
+jupyterlab==4.2.5
 matplotlib
 pandas
